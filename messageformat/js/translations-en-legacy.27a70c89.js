@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["translations-en"],{e83d:function(t,e,i){"use strict";i.r(e),e["default"]={en:{"Activity feed":()=>"Activity feed {TOTO}",context:{"Last forum topics":()=>"Last forum topics"}}}}}]);
+//# sourceMappingURL=translations-en-legacy.27a70c89.js.map
